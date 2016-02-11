@@ -1,0 +1,5 @@
+C:\SampleApps\Mvc6ReferenceError\CSharp451ClassLibrary\bin\Debug\CSharp451ClassLibrary.dll
+C:\SampleApps\Mvc6ReferenceError\CSharp451ClassLibrary\bin\Debug\CSharp451ClassLibrary.pdb
+C:\SampleApps\Mvc6ReferenceError\CSharp451ClassLibrary\obj\Debug\CSharp451ClassLibrary.csprojResolveAssemblyReference.cache
+C:\SampleApps\Mvc6ReferenceError\CSharp451ClassLibrary\obj\Debug\CSharp451ClassLibrary.dll
+C:\SampleApps\Mvc6ReferenceError\CSharp451ClassLibrary\obj\Debug\CSharp451ClassLibrary.pdb
